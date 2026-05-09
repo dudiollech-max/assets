@@ -1,0 +1,17 @@
+{
+  "name": "SMESH",
+  "website": "https://smesh.gg",
+  "description": "SMESH is the liquidity token powering blockchain-native trade finance. Real yield from short-duration trade finance deals flows to the SMESH protocol on Base, deepening liquidity and burning supply permanently.",
+  "explorer": "https://etherscan.io/token/0xDA31b578841d6d4417Dba55EFbdbF068e101a67a",
+  "type": "ERC20",
+  "symbol": "SMESH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xDA31b578841d6d4417Dba55EFbdbF068e101a67a",
+  "tags": ["defi"],
+  "links": [
+    { "name": "twitter", "url": "https://x.com/smesh_gg" },
+    { "name": "whitepaper", "url": "https://smesh.gg" },
+    { "name": "telegram", "url": "https://t.me/smeshtoken" }
+  ]
+}
